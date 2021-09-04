@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @misaruiz
+- 👀 I’m interested in Front-End Development and UX Designer
+- 🌱 I’m currently learning Full Stack Javascript
